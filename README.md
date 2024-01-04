@@ -1,2 +1,2 @@
 # ExercismPhp
-Ejercicios realizados en Exercism sobre Javascript.
+Ejercicios realizados en Exercism sobre Php.
